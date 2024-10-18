@@ -14,7 +14,7 @@
             <div class="card-header">
                 <div style="float: left">
                     <h2>{{__('Add New Product')}}</h2>
-                    <p>ndsmgbddl</p>
+                 
                 </div>
                 <div style="float: right">
                    <a class="btn btn-dark" href="{{route('all.product')}}">{{__('All Product')}}</a>
